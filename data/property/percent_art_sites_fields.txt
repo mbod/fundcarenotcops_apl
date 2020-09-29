@@ -1,0 +1,13 @@
+﻿Field Name	Alias	Description	Type
+Address		Address of the art, or nearest address to the art, if it does not have an exact address.	Text
+Artist		Artist who created the art. 	Text
+Date		Date the art was created.	Text
+Google_Streetview_Link	Google Street View Link	Link to a street view of the art's location. 	URL
+Image		URL of an image of the artwork (if an image is on file). 	URL
+Location_Name	Location Name	The name of the building or site where the art is located, if applicable. 	Text
+Location_Note	Location Note	A description of the art location that is more detailed than a simple address, if applicable.	Text
+Medium		Art medium.	Text
+Neighborhood		General neighborhood where the art is located. 	Text
+P4A_ID		The unique ID field for joining the layer with its database. 	Integer
+Status		The status of the art. Active, Removed, Relocation, etc. 	Text
+Title		Title of the art. 	Text

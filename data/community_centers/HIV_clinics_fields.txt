@@ -1,0 +1,12 @@
+﻿Field Name	Alias	Description	Type
+ADDRESS		Address	Text
+ADDTL_INFO		Additional information about the site	Text
+CITY		City	Text
+LOCATION_DETAIL		Additional information about locating the site	Text
+OBJECTID			Numeric
+PHONE		Phone number	Text
+PHONE_EXTENSION		Phone number extension	Text
+SITE_NAME		Site name	Text
+STATE		State	Text
+SUB_NAME		Additional name specification	Text
+ZIP_CODE		Zip code	Double

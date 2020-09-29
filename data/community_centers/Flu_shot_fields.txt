@@ -1,0 +1,13 @@
+﻿Field Name	Alias	Description	Type
+ADDRESS	Address		Text
+BEGIN_DATE	Begin Date		Text
+DAYS	Days		Text
+ELIGIBILITY	Eligibility		Text
+END_DATE	End Date		Date
+FACILITY	Facility		Text
+FACILITY_NAME	Facility Name		Text
+HOURS	Hours		Text
+OBJECTID	ObjectID		Integer
+PHONE	Phone Number		Text
+SHAPE	Shape		Geometry
+ZIP	Zip Code		Numeric

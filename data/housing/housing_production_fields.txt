@@ -1,0 +1,10 @@
+﻿Field Name	Alias	Description	Type
+ACCESSIBLE_UNITS		Number of units accessible to individuals with mobility impairments.	
+ADDRESS		An address or location associated with the housing project. Note: In some cases, approximate locations are used. 	
+DEVELOPER_NAME		Name of organization that developed the housing project.	
+FISCAL_YEAR_COMPLETE		Fiscal year (FY) in which the project was completed (or approximately completed). Note: The fiscal year runs from July 1st - June 30th and is represented by the year in which the period ends. 	
+PROJECT_NAME		Name of the housing project. 	
+PROJECT_TYPE		Indicates whether the development is a rental, special needs, or homeownership project.	
+SENSORY_UNITS		Number of units accessible to individuals with hearing or vision impairments.	
+TOTAL_UNITS		Total number of units associated with the project. 	
+VISITABLE_UNITS		Number of units meeting visitability standards. 	

@@ -1,0 +1,19 @@
+﻿Field Name	Alias	Description	Type
+ADDRESS		Address of demolition	Text
+ADDRESSKEY		Unique address identifier used internally within the Dpt of L+I	Text
+APPLICANTCAPACITY		Type of applicant on record with private permit	Text
+CASEORPERMITNUMBER		Unique identifier for demolitions.  Demolitions are identified by either a building permit issued to the property owner or contractor, or by the code violation 'case' that triggered L+I to demolish the building in the interest of public safety	Text
+CENSUSTRACT			Text
+CITY_DEMO		'YES' - 'Curbside Demolition' contracted through the city on dangerous buildings<br />'NO' - Private demolition executed by landowner	Text
+COMPLETEDDATE		Date building permit or L+I contractor bid was closed	Date/Time
+OPA_ACCOUNT_NUM		'Office of Property Assessment Account Number'  Every land parcel within the City of Philadelphia is assigned a unique account number from OPA.  This number stays with the property for as long as the deed is held by the same owner.  Once a property transfers ownership, it is assigned a new OPA account number and the old one is retired.  <br /><br />This field can be used as a join key for various city datasets.  It is also sometimes known as the 'BRT' number, or within some datasets coming directly from OPA, is also called the 'PARCEL_NUMBER'.  (Other departments may use different internal 'Parcel Numbers', so please verify before using).	
+ORGANIZATION		Commercial organization	Text
+OWNERNAME		Owner of the property as identified by the Office of Property Assessment	Text
+PERMITSTATUS		Internal system status of demolition permit or case	Text
+PRIMARYCONTACT		Name of contact on permit record	
+RECORD_TYPE		'PERMIT'- Demolition was an action of a private owner, who was issued a building permit from L+I.  (CASEORPERMITNUMBER will be a 'PERMIT' number)<br />'VIOLATION CASE'- Demolition was an action of the Dpt of L+I, due to dangerous building conditions, as a result of violation of the city's building code.  (CASEORPERMITNUMBER will be a 'CASE' number)	Text
+STARTDATE		Date building permit was issued or date L+I issued a bid to a contractor to demolish on the city's behalf	Date/Time
+STATUS		ACTIVE-Permit or demolition bid is currently open, this indicates construction is ongoing or about to begin<br /><br />COMPLETED-Indicates that construction activity has concluded	Text
+TYPEOFWORK		FULL - Complete demolition of existing structure through private contractor<br />TANKRI - Removal of underground tank from property<br />CASE - Demolition through curbside demolition, this typically involves a complete demolition of a structure<br />	Text
+UNIT		Address Unit	Text
+ZIP		Zip code of demolition	Text

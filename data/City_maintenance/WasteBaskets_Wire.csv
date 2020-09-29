@@ -1,0 +1,395 @@
+﻿OBJECTID,ADDRESS,CORNERSIDE
+1,5th & Courtland St.,SE
+2,5th & Wyoming St., 
+3,5th & Roosevelt Blvd.,SW
+4,Rhawn & Roosevelt Blvd.,NE
+13,Bergen & Bustleton Ave.,NW
+14,Castor Ave. & Rhawn St.,NW
+15,"Castor Ave. & Rhawn St.
+",SE
+16,Castor Ave. & Borbeck St.,NW
+17,Castor Ave. & Borbeck St.,SE
+18,Castor Ave. & Chandler St.,NW
+19,Castor Ave. & Chandler St.,SE
+20,Castor Ave. & Hartel Ave.,NW
+21,Castor Ave. & Hartel Ave.,SE
+22,Castor Ave. & Napfle Ave.,NW
+23,Castor Ave. & Napfle Ave.,SE
+24,Castor & Glendale Ave.,NW
+25,Castor & Glendale Ave.,SE
+26,Castor & Bleigh St.,NW
+27,Castor & Bleigh St.,SE
+28,Veree Rd. & Oxford Ave.,SE
+29,Oxford Ave. & Loney St.,NW
+30,Oxford Ave. & Borbeck St.,NE
+44,Frankford & Rhawn St.,SE
+45,Frankford & Rhawn St.,NE
+48,Rising Sun & St. Vincent St.,SE
+49,Risign Sun & Tyson Ave.,NW
+50,Rising Sun & Longshore Ave.,NW
+51,Rising Sun & Unruh Ave.,NE
+52,"Rising Sun & Unruh Ave.
+Rising Sun & Unruh Ave.
+",SE
+53,"Rising Sun & Martins Mill Rd.
+",NW
+54,"Rising Sun & Martins Mill Rd.
+
+",SW
+55,Rising Sun & Magee Ave.,NW
+56,Rising Sun & Hellerman St.,NW
+57,Rising Sun & Passmore St.,SW
+58,Rising Sun & Levick St.,NW
+59,Rising Sun & Levick St.,NE
+60,Rising Sun & Robbins St.,NW
+61,Rising Sun & Robbins St.,SE
+62,Rising Sun & Comly St.,NW
+63,Rising Sun & VanKirk St.,SE
+64,Rising Sun & Cheltenham Ave.,NW
+65,Rising Sun & Sanger St.,SE
+66,Rising Sun & Sanger St.,SW
+67,5700 Frankford Ave., 
+68,Rising Sun & Cottman Ave.,SW
+69,Cottman & Oxford Ave.,NE
+70,Cottman & Algon Ave.,NE
+71,Cottman & Summerdale Ave.,NW
+72,Cottman & Castor Ave.,SE
+73,Cottman & Revere St.,SW
+74,2800 Cottman Ave.,SE
+75,"Cottman & Rowland Ave.
+",NW
+76,Cottman & Rowland Ave.,SW
+77,Cottman & Charles St.,NW
+78,Cottman & Frankford Ave.,SW
+79,Cottman & Erdrick St.,NW
+80,Cottman & Erdrick St.,SW
+81,Cottman & Torresdale Ave.,NE
+82,Cottman & Torresdale Ave.,NW
+83,5900 Bustleton Ave., 
+84,Bustleton & Magee Ave.,NW
+85,Bustleton & Magee Ave.,NE
+86,Bustleton & Magee Ave.,SE
+87,Bustleton & Unruh Ave.,NW
+88,Bustleton & Unruh Ave.,SE
+89,Bustleton & Knorr St.,NW
+90,Bustleton & Knorr St.,SW
+91,Bustleton & Longshore Ave.,SE
+92,Bustleton & Longshore Ave.,NW
+93,Bustleton & Tyson Ave.,SW
+94,Bustleton & Tyson Ave.,SE
+95,Castor & Comly St.,NW
+96,Castor & Benner St.,SE
+97,Castor & Tyson Ave.,NW
+98,Castor & Princeton Ave.,SW
+99,Castor & Englewood St.,NW
+100,Castor & Cottman Ave.,SE
+101,Castor & St. Vincent St.,SW
+102,Summerdale Ave. & Pratt St.,NW
+103,Summerdale Ave. & Bridge St.,NE
+104,Summerdale Ave. & Bridge St.,SW
+105,Summerdale Ave. & Sanger St.,SE
+106,Summerdale Ave. & Sanger St.,NW
+107,Summerdale & Cheltenham Ave.,SE
+108,Summerdale & Cheltenham Ave.,SW
+109,Summerdale & Oxford Ave.,NE
+110,Summerdale & Oxford Ave.,NW
+111,Torresdale & Cottman Ave.,NW
+112,Torresdale & Cottman Ave.,NE
+113,7200 Torresdale Ave., 
+114,Torresdale & Princeton Ave.,NW
+115,Torresdale & Princeton Ave.,NE
+116,Torresdale & Tyson Ave.,SW
+117,Torresdale & Longshore Ave.,NW
+118,Torresdale & Longshore Ave.,NE
+119,"Torresdale & Unruh Ave.
+",SW
+120,Torresdale & Magee Ave.,NW
+121,Torresdale & Magee Ave.,SW
+122,Torresdale & Magee Ave.,NE
+123,Torresdale & Hellerman St.,SE
+124,Torresdale & Hellerman St.,NW
+125,Torresdale & Levick St.,NW
+126,Torresdale & Devereaux St.,NW
+127,Torresdale & Devereaux St.,NE
+128,Torresdale & Benner St.,NE
+129,Torresdale & Benner St.,NW
+130,Torresdale & Comly St.,SW
+131,52nd & Cedar Ave.,NW
+132,52nd & Cedar Ave.,NE
+133,52nd & Catherine St.,NW
+134,52nd & Webster St.,NW
+135,52nd & Baltimore Ave.,NW
+136,52nd & Baltimore Ave.,NE
+137,56th & Girard Ave.,NW
+138,49th & Woodland Ave.,NW
+139,49th & Woodland Ave.,NE
+140,Cemetery & Woodland Ave.,NE
+141,63rd & Woodland Ave.,NW
+142,63rd & Woodland Ave.,NE
+143,71st & Woodland Ave.,SW
+144,54th & Chester Ave.,NE
+145,54th & Chester Ave.,NW
+146,54th & Chester Ave.,SE
+147,58th & Chester Ave.,NE
+148,"58th & Chester Ave.
+",SE
+149,"58th & Chester Ave.
+58th & Chester Ave.
+",SW
+150,66th & Elmwood Ave.,SW
+151,66th & Elmwood Ave.,NW
+152,66th & Elmwood Ave.,NE
+153,"66th & Elmwood Ave.
+",SE
+154,63rd & Elmwood Ave.,NW
+155,63rd & Elmwood Ave.,SE
+156,59th & Elmwood Ave.,SW
+157,58th & Elmwood Ave.,NE
+158,51st & Baltimore Ave.,NW
+159,50th & Baltimore Ave.,NE
+160,50th & Baltimore Ave.,SW
+161,Brown St. & Lancaster Ave.,NE
+162,42nd & Lancaster Ave.,SW
+163,41st & Lancaster Ave.,SE
+164,41st & Lancaster Ave.,NE
+165,41st & Lancaster Ave.,NW
+166,42nd & Lancaster Ave.,NE
+167,Brown St. & Lancaster Ave.,SW
+168,Brown St. & Lancaster Ave.,NW
+169,39th & Lancaster Ave.,NW
+170,Grays Ferry & Fitzwater St.,SE
+171,Point Breeze & Oakford St.,NE
+172,27th & Girard Ave.,NE
+173,Ridge Ave. & Master St.,NW
+174,22nd & Ridge Ave.,NE
+175,22nd & Ridge Ave.,SW
+176,"23rd & Ridge Ave.
+",SW
+177,"23rd & Ridge Ave.
+
+",NE
+178,"Ridge & CB Moore Ave.
+Ridge & CB Moore Ave.
+",SE
+179,Ridge & Montgomery Ave.,SE
+180,24th & CB Moore Ave.,SW
+181,23rd & CB Moore Ave.,SW
+182,23rd & CB Moore Ave.,NE
+183,22nd & CB Moore Ave.,NW
+184,20th & CB Moore Ave.,NE
+185,20th & CB Moore Ave.,SE
+186,20th & CB Moore Ave.,SW
+187,29th & Lehigh Ave.,NE
+188,29th & Lehigh Ave.,NW
+189,29th & Lehigh Ave., 
+190,2400 N. 16th St.,SE
+191,2400 N. 16th St., 
+192,"Lawrence & Lehigh Ave.
+Lawrence & Lehigh Ave.
+",SE
+193,4th & Lehigh Ave.,SW
+194,"Front & Lehigh Ave.
+",NE
+195,A St. & Lehigh Ave.,NE
+196,Potter & Lehigh Ave.,SE
+197,Aramingo & Lehigh Ave.,SW
+198,Richmond & Lehigh Ave.,SE
+199,8th & Allegheny Ave.,SE
+200,7th & Allegheny Ave.,SE
+201,Front & Allegheny Ave.,SE
+202,Lee & Allegheny Ave.,NE
+203,A  St. & Allegheny Ave.,SW
+204,Huntingdon & Germantown Ave.,NW
+205,Huntingdon & Germantown Ave.,SW
+206,Huntingdon & Germantown Ave.,SE
+207,Huntingdon & Germantown Ave.,NE
+208,Oakdale & Germantown Ave.,SE
+209,"Lehigh & Germantown Ave.
+",SW
+210,Lehigh & Germantown Ave.,SE
+211,"Lehigh & Germantown Ave.
+",NE
+212,"Lehigh & Germantown Ave.
+",NW
+213,N. 12th & W. Girard Ave.,NW
+214,8th & Girard Ave., 
+215,Chelten & Wister St.,NE
+216,Stenton & Washington Ln.,NE
+217,6400 Stenton Ave.,SE
+218,Stenton & Barringer St.,NE
+219,79th Ave. & Cheltenham,NW
+220,Washington Ln. & Cheltenham,SW
+221,15th St. & Old York Rd.,NE
+222,"Chew & Chelten Ave.
+",NE
+223,"Chew & Chelten Ave.
+",SW
+224,1600 E. Tulpehocken St.,NW
+225,Chelten & Baynton St.,SW
+226,Chelten & Baynton St.,NE
+227,Ridge Ave. & Aurania St.,NW
+228,Ridge & Flamingo St.,NW
+229,Ridge & Wigard Ave.,NW
+230,Ridge & Green Ln.,SE
+231,Ridge & Shurs Ln.,SE
+232,5700 Ridge Ave.,SE
+233,Germantown & Brunner St.,NW
+234,Germantown & Juniata St.,NW
+235,Germantown & Juniata St.,SW
+236,"Germantown & Dounton St.
+",NW
+237,Germantown & Staub St.,SW
+238,Germantown & Coulter St.,NW
+239,Germantown & Coulter St.,SE
+240,6000 Germantown & Walnut Ln.,NW
+241,6000 Germantown & Walnut Ln.,SW
+242,6000 Germantown & Walnut Ln.,SE
+243,"6000 Germantown & Walnut Ln.
+",NE
+244,Germantown & Creshiem Valley Rd.,NW
+245,Wayne Ave. & Logan St.,SW
+246,Wayne Ave. & Logan St.,NW
+247,Wayne Ave. & Manheim St.,SE
+248,Wayne Ave. & Manheim St.,SW
+249,Wayne Ave. & Sedgewick St.,SW
+250,Midvale & Henry Ave.,NW
+251,Chelten & Pulaski Ave.,SE
+252,Chelten & Knox St.,NE
+253,Chelten & Wayne Ave.,SE
+254,2800 Kensington Ave., 
+255,2900 Kensington Ave.,SW
+256,2900 Kensington Ave.,SE
+257,2900 Kensington Ave., 
+258,3000 Kensington Ave.,NW
+259,3200 Kensington Ave.,NW
+260,3200 Kensington Ave.,SE
+261,3300 Kensington Ave.,NW
+262,3400 Kensington Ave.,NE
+263,3400 Kensington Ave.,SE
+264,"3400 Kensington Ave.
+",NW
+265,4300 Kensington Ave.,SE
+266,4300 Kensington Ave.,NE
+267,4300 Kensington Ave.,SW
+268,4300 Kensington Ave.,NW
+269,5300 Oxford Ave.,NE
+270,"5300 Oxford Ave.
+",SW
+271,5400 Oxford Ave.,SE
+272,800 E. Allegheny Ave.,NW
+273,4100 Frankford Ave.,SE
+274,4200 Frankford Ave., 
+275,4300 Frankford Ave.,NE
+276,"4300 Frankford Ave.
+",NW
+277,"4300 Frankford Ave.
+",SE
+278,"4300 Frankford Ave.
+",SW
+279,4400 Frankford Ave.,NW
+280,4400 Frankford Ave.,SE
+281,"4500 Frankford Ave.
+",NW
+282,"4500 Frankford Ave.
+",NE
+283,"4500 Frankford Ave.
+",SW
+284,4500 Frankford Ave.,SE
+285,4600 Frankford Ave.,NW
+286,4600 Frankford Ave.,NE
+287,4600 Frankford Ave.,SW
+288,4600 Frankford Ave.,SE
+289,4700 Frankford Ave.,NW
+290,4700 Frankford Ave.,NE
+291,4700 Frankford Ave.,NW
+292,4800 Frankford Ave.,NE
+293,4800 Frankford Ave.,NW
+294,4800 Frankford Ave.,SW
+295,"4800 Frankford Ave.
+",SE
+296,4900 Frankford Ave., 
+297,5000 Frankford Ave.,NE
+298,5000 Frankford Ave.,NW
+299,5200 Frankford Ave.,NE
+300,5200 Frankford Ave.,SE
+301,5300 Frankford Ave. By bridge,NE
+302,5300 Frankford Ave.,SE
+303,Erie & Whitaker Ave.,SE
+304,Erie & Whitaker Ave.,NE
+305,5th & Erie Ave.,NW
+306,5th & Erie Ave.,SE
+307,6th & Erie Ave.,NE
+308,6th & Erie Ave.,SW
+309,Erie & Rising Sun Ave.,SW
+310,Broad & Lindley Ave.,NE
+311,Broad & Olney Ave.,NE
+312,Olney & Park Ave.,SE
+313,Olney & Park Ave.,NW
+314,Olney btw. Park  Ave. & 13th,SW
+315,Olney btw. Park  Ave. & 13th,SE
+316,Germantown & Allegheny Ave.,NE
+317,Front & Luzerne St.,NW
+318,Rising Sun Ave. & Gale St.,NW
+319,5th & Hunting Park Ave.,NW
+320,5th & Bristol St.,NW
+321,5th & Cayuga St.,N W
+322,5th & Cayuga St.,NE
+323,5th & Cayuga St.,SW
+324,5th & Cayuga St.,SE
+325,5th & Annsbury St.,NW
+326,"5th & Raymond St.
+", 
+327,5th & Courtland St.,NW
+328,Torresdale & Comly St.,SW
+329,Torresdale & Howell St.,NW
+330,Torresdale & Howell St.,SW
+331,Torresdale & VanKirk St.,NE
+332,Torresdale & VanKirk St.,NW
+333,Torresdale & VanKirk St.,SW
+339,3000 Kensington Ave.,NE
+340,"800 E. Allegheny Ave. By Reach St
+",SW
+341,4100 Frankford Ave. On Kingston & Adams,NE
+342,4100 Frankford Ave. On Kingston & Adams,NW
+343,4300 Frankford Ave.,NW
+344,4300 Frankford Ave.,NW
+345,4700 Frankford Ave.,SW
+346,5000 Frankford Ave.,NE
+347,5000 Frankford Ave.,SE
+348,5200 Frankford Ave.,SW
+349,"5300 Frankford Ave. by granite
+",NE
+350,"5300 Frankford Ave.
+",SE
+351,Erie & Rising Sun Ave.,NE
+352,5th & Bristol St.,SE
+353,Frankford btw. Cottman & Ryan,SW
+355,Rising Sun & VanKirk St.,NW
+356,Rising Sun & Cottman Ave.,SE
+357,Rising Sun & Cottman Ave.,SE
+358,Rising Sun & Cottman Ave,NW
+359,Castor & Tyson Ave.,SE
+360,Summerdale Ave. & Pratt St.,NE
+361,Torresdale & Comly St.,NW
+362,2802 Cottman Ave.,SE
+363,5300 Oxford Ave,NW
+364,5251 Oxford Ave,NE
+365,Frankford Ave & Harrison St,SE
+366,4829 Frankford Ave,NE
+367,4829 Frankford Ave,SE
+368,Rising Sun Ave & Fanshawe St,SE
+373,Rhawn St & Veree Rd,SE
+374,3300 Kensington Ave,NE
+375,5th & Wyoming Ave,SE
+376,5th & Annesbury,SE
+377,Germantown Ave & Hunting Park,NW
+378,Germantown Ave & Hunting Park,SW
+379,Germantown Ave & Staub St,SE
+380,Dounton St & Germantown Ave,NE
+382,2408 Montgomery Ave.,SE
+383,2134 Cecil B. Moore Ave.For Ridge Ave&oxford,S
+384,1101 W. Allegheny Ave.,NE
+385,200 Fountain St.,NE
+386,"800 Germantown Ave.
+800 Germantown Ave.
+",NW

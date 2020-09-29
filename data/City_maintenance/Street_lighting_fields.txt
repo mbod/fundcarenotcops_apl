@@ -1,0 +1,14 @@
+﻿Field Name	Alias	Description	Type
+BLOCK		References a map that was used to plot Alley (AEL) Poles	Text
+HEIGHT		light height	Integer
+LUM_SIZE		light wattages	Integer
+NLUMIN		light lumin count 	Integer
+OBJECTID			Numeric
+OID			Integer
+OWNER		pole owner 	Text
+PLATE		References a map that was used to plot Alley (AEL) Poles	Text
+POLE_DATE		creation date	Date
+POLE_NUM		Unique identifier	Integer
+TAP_ID		identifies the poles tap pole	Integer
+TYPE		Acronym that describes the pole type and style. Contact GIS Data Contact below for translations.<br /><br />AAMP - Avenue of the Arts Mast Arm Pole									<br />AAPT - Avenue of the Arts Street Light Pole									<br />AEL - Alley Pole									<br />C13 - Traffic C Post 13'									<br />C20 - Traffic C Post 20'									<br />CCP - Center City Pedestrian Pole									<br />CCR - Center City Roadway Pole									<br />CHP - Chestnut Hill Street Light Pole									<br />D30 - Traffic D Pole									<br />FLP - Franklin Light Pole									<br />MAP - Traffic Mast Arm Pole									<br />MAPT - Traffic Mast Arm Pole (Twin Light)									<br />MLP	 - Millenium Light Pole									<br />MLPT - Millenium Light Pole (Twin Light)									<br />OTH	 - Other									<br />OTHT - Other (Twin Light)									<br />PDT - PennDot Pole									<br />PDTT - PennDot Pole (Twin Light)									<br />PKY - Parkway Street Light Pole									<br />PKYT - Parkway Street Light Pole (Twin Pole)									<br />PTA - Post Top Pole (Aluminum)									<br />PTC - Post Top Pole (Concrete)									<br />PTF - Post Top Pole (Fiberglass)									<br />PVT - Private Pole									<br />PVTT - Private Pole (Twin Light)									<br />RP - Radar Traffic Pole									<br />SLA - Street Light Aluminum									<br />SLAT - Street Light Aluminum (Twin Light)									<br />SLF - Street Light Fiberglass									<br />SLFT - Street Light Fiberglass (Twin Light)									<br />SM - Structure Mounted									<br />SMP	 - Strawberry Mansion Bridge Pole									<br />SNP - Sign Pole									<br />SWP	 - Span Wire Pole									<br />TP - Trolley Pole									<br />WP - Wood Pole									<br />WPT - Wood Pole (Twin Light)									<br />CTP - Chinatown Pole									<br />SSP - South Street Tower Pole									<br />SMB - Septa Millennia Bridge Pole									<br />JMB - JFK Blvd Millennia Bridge Pole									<br />MMB - Market St Millennia Bridge Pole									<br />CMB - Chestnut St Millennia Bridge Pole									<br />WMB - Walnut St Millennia Bridge Pole									<br />SMAB - Strawberry Mansion Arch Bridge Pole									<br />FB - Falls Bridge Pole									<br />RLP - Red Light Camera Pole									<br />TCB - Traffic Control Box									<br />AASP - Avenue of the Arts Signal Pole									<br />CP - Carrier Pole	Text
+UP_DATE		data update date	Date

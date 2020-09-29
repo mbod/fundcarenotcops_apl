@@ -1,0 +1,9 @@
+﻿Field Name	Alias	Description	Type
+ADDRESS	Address		Text
+CITY	City		Text
+HOURS	Hours		Text
+OBJECTID	ObjectID		Integer
+SHAPE	Shape		Other
+SITE_NAME	Site_Name		Text
+STATE	State		Text
+ZIP	Zip		Numeric
