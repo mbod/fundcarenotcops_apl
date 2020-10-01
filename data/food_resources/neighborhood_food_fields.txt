@@ -1,0 +1,13 @@
+﻿Field Name	Alias	Description	Type
+HIGH_POVERTY		Binary indicator for high poverty. High poverty is defined as 20% or more of the block group being below the federal poverty level.	Text
+HPSS_ACCESS		Access to high-produce supply stores as either No Access, Low Access, or Moderate or High Access. <br /><br />No Access areas have 0 high-produce supply stores within walking distance. Low Access areas have either 1 big box store, 1 produce store, or up to 4 limited-access high-produce supply stores. Moderate or High Access and have either 1 or more supermarkets or several high-produce supply stores nearby.	Text
+HPSS_PER1000		Number of high-produce supply stores per 1,000 people	Numeric
+LPSS_PER1000		Number of low-produce supply stores per 1,000 people	Numeric
+NON_RESIDENTIAL		Non-residential indicator. Non-residential block groups are those with either a population of zero (based on the 2013-2017 American Community Survey of the U.S. Census) or an area of 2 square miles or more. The latter criteria allows for the exclusion of Fairmount Park, Wissahickon Valley Park, and Pennypack Park.	Text
+PCT_HPSS		Percentage of all stores within a half mile walking distance of the block group that are high-produce supply stores	Numeric
+PCT_POVERTY		Percentage of people living below the federal poverty level	Numeric
+PCT_VEHICLE_AVAILABILITY		Percentage of occupied housing units with at least 1 vehicle	Numeric
+SUPERMARKET_ACCESS		Binary indicator for whether or not the block group has a supermarket within a half mile walking distance.	Text
+TOTAL_HPSS		Total number of high-produce supply stores within a half mile walking distance of the block group. High-produce supply stores generally offer a larger amount of healthier foods, particularly fruits and vegetables. They included supermarkets, big box stores, and produce stores. Farmers markets, mobile produce, buying clubs, and CSAs were counted as 1/4 of a store due to their limited access. Supermarkets (8) and big box stores (3) within a half mile of Philadelphia were included to account for border-crossing.	Numeric
+TOTAL_LPSS		Total number of low-produce supply stores within a half mile walking distance of the block group. Low-produce supply stores generally offer a low amount of healthy food choices and often have a higher amount of unhealthy food choices, like sugary beverages and sugary and salty snacks. They included chain convenience stores, corner stores, dollar stores, gas stations, newsstands, and pharmacies.	Numeric
+TOTAL_RESTAURANTS		Number of restaurants, bars, and food trucks located within a block group	Numeric

@@ -1,0 +1,10 @@
+﻿Field Name	Alias	Description	Type
+CITY		The city the hospital is in.	Text
+HOSPITAL_NAME		The name of the hospital.	Text
+HOSPITAL_TYPE		Type of hospital: general medical, behavioral health, long term care, rehabilitation.	Text
+OBJECTID			Numeric
+PHONE_NUMBER		The phone number for the hospital.	Text
+SHAPE			Other
+STATE		The state the hospital is in.	Text
+STREET_ADDRESS		The street address of the hospital.	Text
+ZIP_CODE		The zip code of the hospital.	Text
