@@ -7,5 +7,13 @@
   * [The Amistad Law Project](https://amistadlaw.org/)
 
 
+-----
+
+### Contents
+
+* [data](data) contains a developing collection of open data resources (datasheets, geomaps, etc.) organized by type
+* [notebooks](notebooks) contain the working data analysis documents (mainly in Python and R)
+
+
 
 
