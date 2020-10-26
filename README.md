@@ -16,7 +16,7 @@
 
 
 ### Sample questions:
-	* Is there meaningful variation in crime rates across the city of Philadelphia, and are these crime rates associated with available community resources like free libraries, affordable housing, etc (cross-sectional analysis)?
-	* Is there a causal relationship of community investments (e.g. vacant lot clean-up, community center programs, community outreach programs) on crime rates in Philadelphia neighborhoods (longitudinal analysis)?
-	* Are there meaningful differences in the types of investments philadelphia neighborhoods receive? 
+* Is there meaningful variation in crime rates across the city of Philadelphia, and are these crime rates associated with available community resources like free libraries, affordable housing, etc (cross-sectional analysis)?
+* Is there a causal relationship of community investments (e.g. vacant lot clean-up, community center programs, community outreach programs) on crime rates in Philadelphia neighborhoods (longitudinal analysis)?
+* Are there meaningful differences in the types of investments philadelphia neighborhoods receive? 
 
