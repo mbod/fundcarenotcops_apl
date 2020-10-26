@@ -5,3 +5,4 @@ This dataset is derived from the Neighborhood Food Retail in Philadelphia report
 
 
 Fields: see neighborhood_food_fields.txt
+with geoJSON
